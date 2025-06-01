@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001661631497",
+    "project_id": "formulabasiclogin",
+    "storage_bucket": "formulabasiclogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001661631497:android:44d0de4017c3586b3cfcd8",
+        "android_client_info": {
+          "package_name": "com.example.formulabasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATgwIwQx4DnADgt1Zp2Okq616-o6tLwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
